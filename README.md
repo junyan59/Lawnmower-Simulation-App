@@ -7,7 +7,7 @@ Built a web app with Java for users to run lawnmower simulation and monitor its 
 1. Type into the terminal: ./mvnw spring boot:r un
 2. Open a browser and input the address: http://127.0.0.1:8080/
 3. Input the file path of a test case and click submit
-![Image of Main](./images/input_file.png)
+![Image of Main](./images/input_file.png|width=100)
 4. A sample of the initial scenario according to the test case file:
 ![Image of Main](./images/lawnmower_map.png)
 5. Click on the buttons to test the application
